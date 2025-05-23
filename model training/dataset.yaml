@@ -1,0 +1,23 @@
+train: dataset/train/images
+val: dataset/val/images
+test: dataset/test/images
+
+nc: 16
+
+names:
+  - bobcat
+  - opossum
+  - empty
+  - coyote
+  - raccoon
+  - bird
+  - dog
+  - cat
+  - squirrel
+  - rabbit
+  - skunk
+  - rodent
+  - badger
+  - deer
+  - car
+  - fox
