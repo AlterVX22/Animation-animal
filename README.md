@@ -15,7 +15,7 @@
 
 ```
 python model_api.py
-streamlit run streamlit_yolo
+streamlit run streamlit_yolo.py
 ```
 
 #### Пример работы сайта (при запуске streamlit_yolo_app.py)
